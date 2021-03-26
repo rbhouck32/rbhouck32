@@ -10,3 +10,14 @@
 - 📫 How to reach me: ...@rbhouck32, <a href="https://www.linkedin.com/in/robbhouck/">LinkedIn</a> 
 - ⚡ Fun fact: In Russia, Slapping is a sport.
 
+### Languages and Technologies --
+-HTML5
+-CSS3
+-JavaScript
+-React
+-Node.js
+-Express
+-PostgreSQL
+-Python
+
+
