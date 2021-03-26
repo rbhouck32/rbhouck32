@@ -1,7 +1,6 @@
 ### Hi there, I'm Rob I am currently enrolled in the Full Stack Web Development program at Lambda School. 👋
 
-<!--
-**rbhouck32/rbhouck32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 - 🌱 I’m currently learning ... full stack web development with Lambda School. Primarily focused on my professional development(ie. Resume, Portfolio, LinkedIn etc.)
