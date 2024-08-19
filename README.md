@@ -1,4 +1,4 @@
-###  Experienced Software Developer with a passion for Front End Web Development. 
+###  Hi I am Rob Houck and I'm an Experienced Software Developer with a passion for Front End Web Development. 
 Knowledgeable in user interface, testing, and debugging processes. Equipped with a 
 diverse and promising skill set. Proficient in an assortment of technologies, including 
 JavaScript, J query HTML, CSS, Django, and React with a deep understanding of 
