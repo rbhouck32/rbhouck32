@@ -1,4 +1,8 @@
-### Hi there, I'm Rob I am currently enrolled in the Full Stack Web Development program at Lambda School. 👋
+###  Experienced Software Developer with a passion for Front End Web Development. 
+Knowledgeable in user interface, testing, and debugging processes. Equipped with a 
+diverse and promising skill set. Proficient in an assortment of technologies, including 
+JavaScript, J query HTML, CSS, Django, and React with a deep understanding of 
+WCAG compliance and web accessibility.👋
 
 
 
